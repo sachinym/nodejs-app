@@ -5,12 +5,11 @@
       "extensions": [
         "GitHub.copilot",
         "GitHub.copilot-chat",
-        "hashicorp.terraform"
+        "HashiCorp.terraform"
       ]
     }
   },
   "features": {
-    "ghcr.io/devcontainers/features/terraform:1": {},
     "ghcr.io/devcontainers/features/azure-cli:1": {}
   }
 }
